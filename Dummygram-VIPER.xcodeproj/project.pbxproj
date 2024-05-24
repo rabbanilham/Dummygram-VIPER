@@ -10,12 +10,11 @@
 		380EB4FC2C00CEB3008E8A1A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 380EB4FB2C00CEB3008E8A1A /* AppDelegate.swift */; };
 		380EB4FE2C00CEB3008E8A1A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 380EB4FD2C00CEB3008E8A1A /* SceneDelegate.swift */; };
 		380EB5002C00CEB3008E8A1A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 380EB4FF2C00CEB3008E8A1A /* ViewController.swift */; };
-		380EB5032C00CEB3008E8A1A /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 380EB5022C00CEB3008E8A1A /* Base */; };
 		380EB5052C00CEB4008E8A1A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 380EB5042C00CEB4008E8A1A /* Assets.xcassets */; };
 		380EB5082C00CEB4008E8A1A /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 380EB5072C00CEB4008E8A1A /* Base */; };
-		380EB5132C00CEB4008E8A1A /* Dummygram_VIPERTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 380EB5122C00CEB4008E8A1A /* Dummygram_VIPERTests.swift */; };
-		380EB51D2C00CEB4008E8A1A /* Dummygram_VIPERUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 380EB51C2C00CEB4008E8A1A /* Dummygram_VIPERUITests.swift */; };
-		380EB51F2C00CEB4008E8A1A /* Dummygram_VIPERUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 380EB51E2C00CEB4008E8A1A /* Dummygram_VIPERUITestsLaunchTests.swift */; };
+		46520E4BA3DBDA822BDDD8B3 /* Pods_Dummygram_VIPER.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 91CC4D59FBA38A14221D5961 /* Pods_Dummygram_VIPER.framework */; };
+		C0684CAF7653034DF361CCFD /* Pods_Dummygram_VIPER_Dummygram_VIPERUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9E6F275A3AA37C4413497D6F /* Pods_Dummygram_VIPER_Dummygram_VIPERUITests.framework */; };
+		DFBF6E8A0C1BD9669AE89326 /* Pods_Dummygram_VIPERTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BEFBBF4ED16A4FCEC8EF941C /* Pods_Dummygram_VIPERTests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,19 +35,24 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1EAE885681CA0EA9B040C032 /* Pods-Dummygram-VIPERTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Dummygram-VIPERTests.debug.xcconfig"; path = "Target Support Files/Pods-Dummygram-VIPERTests/Pods-Dummygram-VIPERTests.debug.xcconfig"; sourceTree = "<group>"; };
+		30815319C2DD742CF3504C18 /* Pods-Dummygram-VIPER.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Dummygram-VIPER.release.xcconfig"; path = "Target Support Files/Pods-Dummygram-VIPER/Pods-Dummygram-VIPER.release.xcconfig"; sourceTree = "<group>"; };
 		380EB4F82C00CEB3008E8A1A /* Dummygram-VIPER.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Dummygram-VIPER.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		380EB4FB2C00CEB3008E8A1A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		380EB4FD2C00CEB3008E8A1A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		380EB4FF2C00CEB3008E8A1A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		380EB5022C00CEB3008E8A1A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		380EB5042C00CEB4008E8A1A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		380EB5072C00CEB4008E8A1A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		380EB5092C00CEB4008E8A1A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		380EB50E2C00CEB4008E8A1A /* Dummygram-VIPERTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Dummygram-VIPERTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		380EB5122C00CEB4008E8A1A /* Dummygram_VIPERTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dummygram_VIPERTests.swift; sourceTree = "<group>"; };
 		380EB5182C00CEB4008E8A1A /* Dummygram-VIPERUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Dummygram-VIPERUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		380EB51C2C00CEB4008E8A1A /* Dummygram_VIPERUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dummygram_VIPERUITests.swift; sourceTree = "<group>"; };
-		380EB51E2C00CEB4008E8A1A /* Dummygram_VIPERUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dummygram_VIPERUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		463C0B1B177102B04972D352 /* Pods-Dummygram-VIPER-Dummygram-VIPERUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Dummygram-VIPER-Dummygram-VIPERUITests.debug.xcconfig"; path = "Target Support Files/Pods-Dummygram-VIPER-Dummygram-VIPERUITests/Pods-Dummygram-VIPER-Dummygram-VIPERUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		7AB22D5A96F3E3A5FC523FE8 /* Pods-Dummygram-VIPER.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Dummygram-VIPER.debug.xcconfig"; path = "Target Support Files/Pods-Dummygram-VIPER/Pods-Dummygram-VIPER.debug.xcconfig"; sourceTree = "<group>"; };
+		91CC4D59FBA38A14221D5961 /* Pods_Dummygram_VIPER.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Dummygram_VIPER.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9E6F275A3AA37C4413497D6F /* Pods_Dummygram_VIPER_Dummygram_VIPERUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Dummygram_VIPER_Dummygram_VIPERUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A62178BB009700C08A1DE19F /* Pods-Dummygram-VIPERTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Dummygram-VIPERTests.release.xcconfig"; path = "Target Support Files/Pods-Dummygram-VIPERTests/Pods-Dummygram-VIPERTests.release.xcconfig"; sourceTree = "<group>"; };
+		BEFBBF4ED16A4FCEC8EF941C /* Pods_Dummygram_VIPERTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Dummygram_VIPERTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		FCD70EFB3EB3C8755E20E28D /* Pods-Dummygram-VIPER-Dummygram-VIPERUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Dummygram-VIPER-Dummygram-VIPERUITests.release.xcconfig"; path = "Target Support Files/Pods-Dummygram-VIPER-Dummygram-VIPERUITests/Pods-Dummygram-VIPER-Dummygram-VIPERUITests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +60,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				46520E4BA3DBDA822BDDD8B3 /* Pods_Dummygram_VIPER.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,6 +68,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DFBF6E8A0C1BD9669AE89326 /* Pods_Dummygram_VIPERTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -70,6 +76,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C0684CAF7653034DF361CCFD /* Pods_Dummygram_VIPER_Dummygram_VIPERUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -80,9 +87,9 @@
 			isa = PBXGroup;
 			children = (
 				380EB4FA2C00CEB3008E8A1A /* Dummygram-VIPER */,
-				380EB5112C00CEB4008E8A1A /* Dummygram-VIPERTests */,
-				380EB51B2C00CEB4008E8A1A /* Dummygram-VIPERUITests */,
 				380EB4F92C00CEB3008E8A1A /* Products */,
+				DEF4AF81201E88B11B1275E6 /* Pods */,
+				9B9CF7918900C7F4A87B67D4 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -99,32 +106,85 @@
 		380EB4FA2C00CEB3008E8A1A /* Dummygram-VIPER */ = {
 			isa = PBXGroup;
 			children = (
-				380EB4FB2C00CEB3008E8A1A /* AppDelegate.swift */,
-				380EB4FD2C00CEB3008E8A1A /* SceneDelegate.swift */,
-				380EB4FF2C00CEB3008E8A1A /* ViewController.swift */,
-				380EB5012C00CEB3008E8A1A /* Main.storyboard */,
-				380EB5042C00CEB4008E8A1A /* Assets.xcassets */,
-				380EB5062C00CEB4008E8A1A /* LaunchScreen.storyboard */,
-				380EB5092C00CEB4008E8A1A /* Info.plist */,
+				380EB52B2C00CFC6008E8A1A /* Application */,
+				380EB52E2C00D0A4008E8A1A /* Data */,
+				380EB52F2C00D0A8008E8A1A /* Extensions */,
+				380EB52C2C00CFEC008E8A1A /* Resources */,
+				380EB52D2C00D01A008E8A1A /* UI */,
+				380EB5302C00D0B7008E8A1A /* Utilities */,
 			);
 			path = "Dummygram-VIPER";
 			sourceTree = "<group>";
 		};
-		380EB5112C00CEB4008E8A1A /* Dummygram-VIPERTests */ = {
+		380EB52B2C00CFC6008E8A1A /* Application */ = {
 			isa = PBXGroup;
 			children = (
-				380EB5122C00CEB4008E8A1A /* Dummygram_VIPERTests.swift */,
+				380EB4FB2C00CEB3008E8A1A /* AppDelegate.swift */,
+				380EB4FD2C00CEB3008E8A1A /* SceneDelegate.swift */,
+				380EB5062C00CEB4008E8A1A /* LaunchScreen.storyboard */,
+				380EB5092C00CEB4008E8A1A /* Info.plist */,
 			);
-			path = "Dummygram-VIPERTests";
+			path = Application;
 			sourceTree = "<group>";
 		};
-		380EB51B2C00CEB4008E8A1A /* Dummygram-VIPERUITests */ = {
+		380EB52C2C00CFEC008E8A1A /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				380EB51C2C00CEB4008E8A1A /* Dummygram_VIPERUITests.swift */,
-				380EB51E2C00CEB4008E8A1A /* Dummygram_VIPERUITestsLaunchTests.swift */,
+				380EB5042C00CEB4008E8A1A /* Assets.xcassets */,
 			);
-			path = "Dummygram-VIPERUITests";
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		380EB52D2C00D01A008E8A1A /* UI */ = {
+			isa = PBXGroup;
+			children = (
+				380EB4FF2C00CEB3008E8A1A /* ViewController.swift */,
+			);
+			path = UI;
+			sourceTree = "<group>";
+		};
+		380EB52E2C00D0A4008E8A1A /* Data */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		380EB52F2C00D0A8008E8A1A /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		380EB5302C00D0B7008E8A1A /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Utilities;
+			sourceTree = "<group>";
+		};
+		9B9CF7918900C7F4A87B67D4 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				91CC4D59FBA38A14221D5961 /* Pods_Dummygram_VIPER.framework */,
+				9E6F275A3AA37C4413497D6F /* Pods_Dummygram_VIPER_Dummygram_VIPERUITests.framework */,
+				BEFBBF4ED16A4FCEC8EF941C /* Pods_Dummygram_VIPERTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		DEF4AF81201E88B11B1275E6 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				7AB22D5A96F3E3A5FC523FE8 /* Pods-Dummygram-VIPER.debug.xcconfig */,
+				30815319C2DD742CF3504C18 /* Pods-Dummygram-VIPER.release.xcconfig */,
+				463C0B1B177102B04972D352 /* Pods-Dummygram-VIPER-Dummygram-VIPERUITests.debug.xcconfig */,
+				FCD70EFB3EB3C8755E20E28D /* Pods-Dummygram-VIPER-Dummygram-VIPERUITests.release.xcconfig */,
+				1EAE885681CA0EA9B040C032 /* Pods-Dummygram-VIPERTests.debug.xcconfig */,
+				A62178BB009700C08A1DE19F /* Pods-Dummygram-VIPERTests.release.xcconfig */,
+			);
+			path = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -134,9 +194,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 380EB5222C00CEB4008E8A1A /* Build configuration list for PBXNativeTarget "Dummygram-VIPER" */;
 			buildPhases = (
+				879C9F0A3FC641ABEAD2E3BB /* [CP] Check Pods Manifest.lock */,
 				380EB4F42C00CEB3008E8A1A /* Sources */,
 				380EB4F52C00CEB3008E8A1A /* Frameworks */,
 				380EB4F62C00CEB3008E8A1A /* Resources */,
+				A31489B1AF4ACB04287A337C /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -151,6 +213,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 380EB5252C00CEB4008E8A1A /* Build configuration list for PBXNativeTarget "Dummygram-VIPERTests" */;
 			buildPhases = (
+				F5C4FFF6D58EE2A6ED075896 /* [CP] Check Pods Manifest.lock */,
 				380EB50A2C00CEB4008E8A1A /* Sources */,
 				380EB50B2C00CEB4008E8A1A /* Frameworks */,
 				380EB50C2C00CEB4008E8A1A /* Resources */,
@@ -169,9 +232,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 380EB5282C00CEB4008E8A1A /* Build configuration list for PBXNativeTarget "Dummygram-VIPERUITests" */;
 			buildPhases = (
+				BC5CD43460CF1DBF5723E7F5 /* [CP] Check Pods Manifest.lock */,
 				380EB5142C00CEB4008E8A1A /* Sources */,
 				380EB5152C00CEB4008E8A1A /* Frameworks */,
 				380EB5162C00CEB4008E8A1A /* Resources */,
+				1BCEC91073B65D73143C23DA /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -233,7 +298,6 @@
 			files = (
 				380EB5052C00CEB4008E8A1A /* Assets.xcassets in Resources */,
 				380EB5082C00CEB4008E8A1A /* Base in Resources */,
-				380EB5032C00CEB3008E8A1A /* Base in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -253,6 +317,109 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		1BCEC91073B65D73143C23DA /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Dummygram-VIPER-Dummygram-VIPERUITests/Pods-Dummygram-VIPER-Dummygram-VIPERUITests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Dummygram-VIPER-Dummygram-VIPERUITests/Pods-Dummygram-VIPER-Dummygram-VIPERUITests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Dummygram-VIPER-Dummygram-VIPERUITests/Pods-Dummygram-VIPER-Dummygram-VIPERUITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		879C9F0A3FC641ABEAD2E3BB /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Dummygram-VIPER-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A31489B1AF4ACB04287A337C /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Dummygram-VIPER/Pods-Dummygram-VIPER-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Dummygram-VIPER/Pods-Dummygram-VIPER-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Dummygram-VIPER/Pods-Dummygram-VIPER-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		BC5CD43460CF1DBF5723E7F5 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Dummygram-VIPER-Dummygram-VIPERUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F5C4FFF6D58EE2A6ED075896 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Dummygram-VIPERTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		380EB4F42C00CEB3008E8A1A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -268,7 +435,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				380EB5132C00CEB4008E8A1A /* Dummygram_VIPERTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -276,8 +442,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				380EB51D2C00CEB4008E8A1A /* Dummygram_VIPERUITests.swift in Sources */,
-				380EB51F2C00CEB4008E8A1A /* Dummygram_VIPERUITestsLaunchTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -297,14 +461,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		380EB5012C00CEB3008E8A1A /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				380EB5022C00CEB3008E8A1A /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		380EB5062C00CEB4008E8A1A /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -437,17 +593,18 @@
 		};
 		380EB5232C00CEB4008E8A1A /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7AB22D5A96F3E3A5FC523FE8 /* Pods-Dummygram-VIPER.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = CA9KP7YRD3;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Dummygram-VIPER/Info.plist";
+				INFOPLIST_FILE = "Dummygram-VIPER/Application/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -465,17 +622,18 @@
 		};
 		380EB5242C00CEB4008E8A1A /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 30815319C2DD742CF3504C18 /* Pods-Dummygram-VIPER.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = CA9KP7YRD3;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Dummygram-VIPER/Info.plist";
+				INFOPLIST_FILE = "Dummygram-VIPER/Application/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -493,6 +651,7 @@
 		};
 		380EB5262C00CEB4008E8A1A /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1EAE885681CA0EA9B040C032 /* Pods-Dummygram-VIPERTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -513,6 +672,7 @@
 		};
 		380EB5272C00CEB4008E8A1A /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A62178BB009700C08A1DE19F /* Pods-Dummygram-VIPERTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -533,6 +693,7 @@
 		};
 		380EB5292C00CEB4008E8A1A /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 463C0B1B177102B04972D352 /* Pods-Dummygram-VIPER-Dummygram-VIPERUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -551,6 +712,7 @@
 		};
 		380EB52A2C00CEB4008E8A1A /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = FCD70EFB3EB3C8755E20E28D /* Pods-Dummygram-VIPER-Dummygram-VIPERUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
