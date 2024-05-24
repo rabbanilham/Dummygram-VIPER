@@ -1,0 +1,223 @@
+
+Dummygram-VIPER.xcodeproj/xcuserdata/bagas.xcuserdatad/xcschemes/xcschememanagement.plist
+Dummygram-VIPER.xcodeproj/xcuserdata/bagas.xcuserdatad/xcschemes/xcschememanagement.plist
+Pods/Alamofire/LICENSE
+Pods/Alamofire/README.md
+Pods/Manifest.lock
+Pods/Alamofire/Source/Alamofire.swift
+Pods/Alamofire/Source/PrivacyInfo.xcprivacy
+Pods/Alamofire/Source/Core/AFError.swift
+Pods/Alamofire/Source/Core/DataRequest.swift
+Pods/Alamofire/Source/Core/DataStreamRequest.swift
+Pods/Alamofire/Source/Core/DownloadRequest.swift
+Pods/Alamofire/Source/Core/HTTPHeaders.swift
+Pods/Alamofire/Source/Core/HTTPMethod.swift
+Pods/Alamofire/Source/Core/Notifications.swift
+Pods/Alamofire/Source/Core/ParameterEncoder.swift
+Pods/Alamofire/Source/Core/ParameterEncoding.swift
+Pods/Alamofire/Source/Core/Protected.swift
+Pods/Alamofire/Source/Core/Request.swift
+Pods/Alamofire/Source/Core/RequestTaskMap.swift
+Pods/Alamofire/Source/Core/Response.swift
+Pods/Alamofire/Source/Core/Session.swift
+Pods/Alamofire/Source/Core/SessionDelegate.swift
+Pods/Alamofire/Source/Core/UploadRequest.swift
+Pods/Alamofire/Source/Core/URLConvertible+URLRequestConvertible.swift
+Pods/Alamofire/Source/Core/WebSocketRequest.swift
+Pods/Alamofire/Source/Extensions/DispatchQueue+Alamofire.swift
+Pods/Alamofire/Source/Extensions/OperationQueue+Alamofire.swift
+Pods/Alamofire/Source/Extensions/Result+Alamofire.swift
+Pods/Alamofire/Source/Extensions/StringEncoding+Alamofire.swift
+Pods/Alamofire/Source/Extensions/URLRequest+Alamofire.swift
+Pods/Alamofire/Source/Extensions/URLSessionConfiguration+Alamofire.swift
+Pods/Alamofire/Source/Features/AlamofireExtended.swift
+Pods/Alamofire/Source/Features/AuthenticationInterceptor.swift
+Pods/Alamofire/Source/Features/CachedResponseHandler.swift
+Pods/Alamofire/Source/Features/Combine.swift
+Pods/Alamofire/Source/Features/Concurrency.swift
+Pods/Alamofire/Source/Features/EventMonitor.swift
+Pods/Alamofire/Source/Features/MultipartFormData.swift
+Pods/Alamofire/Source/Features/MultipartUpload.swift
+Pods/Alamofire/Source/Features/NetworkReachabilityManager.swift
+Pods/Alamofire/Source/Features/RedirectHandler.swift
+Pods/Alamofire/Source/Features/RequestCompression.swift
+Pods/Alamofire/Source/Features/RequestInterceptor.swift
+Pods/Alamofire/Source/Features/ResponseSerialization.swift
+Pods/Alamofire/Source/Features/RetryPolicy.swift
+Pods/Alamofire/Source/Features/ServerTrustEvaluation.swift
+Pods/Alamofire/Source/Features/URLEncodedFormEncoder.swift
+Pods/Alamofire/Source/Features/Validation.swift
+Pods/Kingfisher/LICENSE
+Pods/Kingfisher/README.md
+Pods/Kingfisher/Sources/PrivacyInfo.xcprivacy
+Pods/Kingfisher/Sources/Cache/CacheSerializer.swift
+Pods/Kingfisher/Sources/Cache/DiskStorage.swift
+Pods/Kingfisher/Sources/Cache/FormatIndicatedCacheSerializer.swift
+Pods/Kingfisher/Sources/Cache/ImageCache.swift
+Pods/Kingfisher/Sources/Cache/MemoryStorage.swift
+Pods/Kingfisher/Sources/Cache/Storage.swift
+Pods/Kingfisher/Sources/Extensions/CPListItem+Kingfisher.swift
+Pods/Kingfisher/Sources/Extensions/ImageView+Kingfisher.swift
+Pods/Kingfisher/Sources/Extensions/NSButton+Kingfisher.swift
+Pods/Kingfisher/Sources/Extensions/NSTextAttachment+Kingfisher.swift
+Pods/Kingfisher/Sources/Extensions/TVMonogramView+Kingfisher.swift
+Pods/Kingfisher/Sources/Extensions/UIButton+Kingfisher.swift
+Pods/Kingfisher/Sources/Extensions/WKInterfaceImage+Kingfisher.swift
+Pods/Kingfisher/Sources/General/KF.swift
+Pods/Kingfisher/Sources/General/KFOptionsSetter.swift
+Pods/Kingfisher/Sources/General/Kingfisher.swift
+Pods/Kingfisher/Sources/General/KingfisherError.swift
+Pods/Kingfisher/Sources/General/KingfisherManager.swift
+Pods/Kingfisher/Sources/General/KingfisherOptionsInfo.swift
+Pods/Kingfisher/Sources/General/ImageSource/AVAssetImageDataProvider.swift
+Pods/Kingfisher/Sources/General/ImageSource/ImageDataProvider.swift
+Pods/Kingfisher/Sources/General/ImageSource/Resource.swift
+Pods/Kingfisher/Sources/General/ImageSource/Source.swift
+Pods/Kingfisher/Sources/Image/Filter.swift
+Pods/Kingfisher/Sources/Image/GIFAnimatedImage.swift
+Pods/Kingfisher/Sources/Image/GraphicsContext.swift
+Pods/Kingfisher/Sources/Image/Image.swift
+Pods/Kingfisher/Sources/Image/ImageDrawing.swift
+Pods/Kingfisher/Sources/Image/ImageFormat.swift
+Pods/Kingfisher/Sources/Image/ImageProcessor.swift
+Pods/Kingfisher/Sources/Image/ImageProgressive.swift
+Pods/Kingfisher/Sources/Image/ImageTransition.swift
+Pods/Kingfisher/Sources/Image/Placeholder.swift
+Pods/Kingfisher/Sources/Networking/AuthenticationChallengeResponsable.swift
+Pods/Kingfisher/Sources/Networking/ImageDataProcessor.swift
+Pods/Kingfisher/Sources/Networking/ImageDownloader.swift
+Pods/Kingfisher/Sources/Networking/ImageDownloaderDelegate.swift
+Pods/Kingfisher/Sources/Networking/ImageModifier.swift
+Pods/Kingfisher/Sources/Networking/ImagePrefetcher.swift
+Pods/Kingfisher/Sources/Networking/RedirectHandler.swift
+Pods/Kingfisher/Sources/Networking/RequestModifier.swift
+Pods/Kingfisher/Sources/Networking/RetryStrategy.swift
+Pods/Kingfisher/Sources/Networking/SessionDataTask.swift
+Pods/Kingfisher/Sources/Networking/SessionDelegate.swift
+Pods/Kingfisher/Sources/SwiftUI/ImageBinder.swift
+Pods/Kingfisher/Sources/SwiftUI/ImageContext.swift
+Pods/Kingfisher/Sources/SwiftUI/KFAnimatedImage.swift
+Pods/Kingfisher/Sources/SwiftUI/KFImage.swift
+Pods/Kingfisher/Sources/SwiftUI/KFImageOptions.swift
+Pods/Kingfisher/Sources/SwiftUI/KFImageProtocol.swift
+Pods/Kingfisher/Sources/SwiftUI/KFImageRenderer.swift
+Pods/Kingfisher/Sources/Utility/Box.swift
+Pods/Kingfisher/Sources/Utility/CallbackQueue.swift
+Pods/Kingfisher/Sources/Utility/Delegate.swift
+Pods/Kingfisher/Sources/Utility/DisplayLink.swift
+Pods/Kingfisher/Sources/Utility/ExtensionHelpers.swift
+Pods/Kingfisher/Sources/Utility/Result.swift
+Pods/Kingfisher/Sources/Utility/Runtime.swift
+Pods/Kingfisher/Sources/Utility/SizeExtensions.swift
+Pods/Kingfisher/Sources/Utility/String+MD5.swift
+Pods/Kingfisher/Sources/Views/AnimatedImageView.swift
+Pods/Kingfisher/Sources/Views/Indicator.swift
+Pods/Pods.xcodeproj/project.pbxproj
+Pods/Pods.xcodeproj/xcuserdata/bagas.xcuserdatad/xcschemes/Alamofire-Alamofire.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/bagas.xcuserdatad/xcschemes/Alamofire.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/bagas.xcuserdatad/xcschemes/Kingfisher-Kingfisher.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/bagas.xcuserdatad/xcschemes/Kingfisher.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/bagas.xcuserdatad/xcschemes/Pods-Dummygram-VIPER-Dummygram-VIPERUITests.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/bagas.xcuserdatad/xcschemes/Pods-Dummygram-VIPER.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/bagas.xcuserdatad/xcschemes/Pods-Dummygram-VIPERTests.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/bagas.xcuserdatad/xcschemes/SnapKit-SnapKit_Privacy.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/bagas.xcuserdatad/xcschemes/SnapKit.xcscheme
+Pods/Pods.xcodeproj/xcuserdata/bagas.xcuserdatad/xcschemes/xcschememanagement.plist
+Pods/SnapKit/LICENSE
+Pods/SnapKit/README.md
+Pods/SnapKit/Sources/Constraint.swift
+Pods/SnapKit/Sources/ConstraintAttributes.swift
+Pods/SnapKit/Sources/ConstraintConfig.swift
+Pods/SnapKit/Sources/ConstraintConstantTarget.swift
+Pods/SnapKit/Sources/ConstraintDescription.swift
+Pods/SnapKit/Sources/ConstraintDirectionalInsets.swift
+Pods/SnapKit/Sources/ConstraintDirectionalInsetTarget.swift
+Pods/SnapKit/Sources/ConstraintDSL.swift
+Pods/SnapKit/Sources/ConstraintInsets.swift
+Pods/SnapKit/Sources/ConstraintInsetTarget.swift
+Pods/SnapKit/Sources/ConstraintItem.swift
+Pods/SnapKit/Sources/ConstraintLayoutGuide+Extensions.swift
+Pods/SnapKit/Sources/ConstraintLayoutGuide.swift
+Pods/SnapKit/Sources/ConstraintLayoutGuideDSL.swift
+Pods/SnapKit/Sources/ConstraintLayoutSupport.swift
+Pods/SnapKit/Sources/ConstraintLayoutSupportDSL.swift
+Pods/SnapKit/Sources/ConstraintMaker.swift
+Pods/SnapKit/Sources/ConstraintMakerEditable.swift
+Pods/SnapKit/Sources/ConstraintMakerExtendable.swift
+Pods/SnapKit/Sources/ConstraintMakerFinalizable.swift
+Pods/SnapKit/Sources/ConstraintMakerPrioritizable.swift
+Pods/SnapKit/Sources/ConstraintMakerRelatable+Extensions.swift
+Pods/SnapKit/Sources/ConstraintMakerRelatable.swift
+Pods/SnapKit/Sources/ConstraintMultiplierTarget.swift
+Pods/SnapKit/Sources/ConstraintOffsetTarget.swift
+Pods/SnapKit/Sources/ConstraintPriority.swift
+Pods/SnapKit/Sources/ConstraintPriorityTarget.swift
+Pods/SnapKit/Sources/ConstraintRelatableTarget.swift
+Pods/SnapKit/Sources/ConstraintRelation.swift
+Pods/SnapKit/Sources/ConstraintView+Extensions.swift
+Pods/SnapKit/Sources/ConstraintView.swift
+Pods/SnapKit/Sources/ConstraintViewDSL.swift
+Pods/SnapKit/Sources/Debugging.swift
+Pods/SnapKit/Sources/LayoutConstraint.swift
+Pods/SnapKit/Sources/LayoutConstraintItem.swift
+Pods/SnapKit/Sources/PrivacyInfo.xcprivacy
+Pods/SnapKit/Sources/Typealiases.swift
+Pods/SnapKit/Sources/UILayoutSupport+Extensions.swift
+Pods/Target Support Files/Alamofire/Alamofire-dummy.m
+Pods/Target Support Files/Alamofire/Alamofire-Info.plist
+Pods/Target Support Files/Alamofire/Alamofire-prefix.pch
+Pods/Target Support Files/Alamofire/Alamofire-umbrella.h
+Pods/Target Support Files/Alamofire/Alamofire.debug.xcconfig
+Pods/Target Support Files/Alamofire/Alamofire.modulemap
+Pods/Target Support Files/Alamofire/Alamofire.release.xcconfig
+Pods/Target Support Files/Alamofire/ResourceBundle-Alamofire-Alamofire-Info.plist
+Pods/Target Support Files/Kingfisher/Kingfisher-dummy.m
+Pods/Target Support Files/Kingfisher/Kingfisher-Info.plist
+Pods/Target Support Files/Kingfisher/Kingfisher-prefix.pch
+Pods/Target Support Files/Kingfisher/Kingfisher-umbrella.h
+Pods/Target Support Files/Kingfisher/Kingfisher.debug.xcconfig
+Pods/Target Support Files/Kingfisher/Kingfisher.modulemap
+Pods/Target Support Files/Kingfisher/Kingfisher.release.xcconfig
+Pods/Target Support Files/Kingfisher/ResourceBundle-Kingfisher-Kingfisher-Info.plist
+Pods/Target Support Files/Pods-Dummygram-VIPER/Pods-Dummygram-VIPER-acknowledgements.markdown
+Pods/Target Support Files/Pods-Dummygram-VIPER/Pods-Dummygram-VIPER-acknowledgements.plist
+Pods/Target Support Files/Pods-Dummygram-VIPER/Pods-Dummygram-VIPER-dummy.m
+Pods/Target Support Files/Pods-Dummygram-VIPER/Pods-Dummygram-VIPER-frameworks-Debug-input-files.xcfilelist
+Pods/Target Support Files/Pods-Dummygram-VIPER/Pods-Dummygram-VIPER-frameworks-Debug-output-files.xcfilelist
+Pods/Target Support Files/Pods-Dummygram-VIPER/Pods-Dummygram-VIPER-frameworks-Release-input-files.xcfilelist
+Pods/Target Support Files/Pods-Dummygram-VIPER/Pods-Dummygram-VIPER-frameworks-Release-output-files.xcfilelist
+Pods/Target Support Files/Pods-Dummygram-VIPER/Pods-Dummygram-VIPER-frameworks.sh
+Pods/Target Support Files/Pods-Dummygram-VIPER/Pods-Dummygram-VIPER-Info.plist
+Pods/Target Support Files/Pods-Dummygram-VIPER/Pods-Dummygram-VIPER-umbrella.h
+Pods/Target Support Files/Pods-Dummygram-VIPER/Pods-Dummygram-VIPER.debug.xcconfig
+Pods/Target Support Files/Pods-Dummygram-VIPER/Pods-Dummygram-VIPER.modulemap
+Pods/Target Support Files/Pods-Dummygram-VIPER/Pods-Dummygram-VIPER.release.xcconfig
+Pods/Target Support Files/Pods-Dummygram-VIPER-Dummygram-VIPERUITests/Pods-Dummygram-VIPER-Dummygram-VIPERUITests-acknowledgements.markdown
+Pods/Target Support Files/Pods-Dummygram-VIPER-Dummygram-VIPERUITests/Pods-Dummygram-VIPER-Dummygram-VIPERUITests-acknowledgements.plist
+Pods/Target Support Files/Pods-Dummygram-VIPER-Dummygram-VIPERUITests/Pods-Dummygram-VIPER-Dummygram-VIPERUITests-dummy.m
+Pods/Target Support Files/Pods-Dummygram-VIPER-Dummygram-VIPERUITests/Pods-Dummygram-VIPER-Dummygram-VIPERUITests-frameworks-Debug-input-files.xcfilelist
+Pods/Target Support Files/Pods-Dummygram-VIPER-Dummygram-VIPERUITests/Pods-Dummygram-VIPER-Dummygram-VIPERUITests-frameworks-Debug-output-files.xcfilelist
+Pods/Target Support Files/Pods-Dummygram-VIPER-Dummygram-VIPERUITests/Pods-Dummygram-VIPER-Dummygram-VIPERUITests-frameworks-Release-input-files.xcfilelist
+Pods/Target Support Files/Pods-Dummygram-VIPER-Dummygram-VIPERUITests/Pods-Dummygram-VIPER-Dummygram-VIPERUITests-frameworks-Release-output-files.xcfilelist
+Pods/Target Support Files/Pods-Dummygram-VIPER-Dummygram-VIPERUITests/Pods-Dummygram-VIPER-Dummygram-VIPERUITests-frameworks.sh
+Pods/Target Support Files/Pods-Dummygram-VIPER-Dummygram-VIPERUITests/Pods-Dummygram-VIPER-Dummygram-VIPERUITests-Info.plist
+Pods/Target Support Files/Pods-Dummygram-VIPER-Dummygram-VIPERUITests/Pods-Dummygram-VIPER-Dummygram-VIPERUITests-umbrella.h
+Pods/Target Support Files/Pods-Dummygram-VIPER-Dummygram-VIPERUITests/Pods-Dummygram-VIPER-Dummygram-VIPERUITests.debug.xcconfig
+Pods/Target Support Files/Pods-Dummygram-VIPER-Dummygram-VIPERUITests/Pods-Dummygram-VIPER-Dummygram-VIPERUITests.modulemap
+Pods/Target Support Files/Pods-Dummygram-VIPER-Dummygram-VIPERUITests/Pods-Dummygram-VIPER-Dummygram-VIPERUITests.release.xcconfig
+Pods/Target Support Files/Pods-Dummygram-VIPERTests/Pods-Dummygram-VIPERTests-acknowledgements.markdown
+Pods/Target Support Files/Pods-Dummygram-VIPERTests/Pods-Dummygram-VIPERTests-acknowledgements.plist
+Pods/Target Support Files/Pods-Dummygram-VIPERTests/Pods-Dummygram-VIPERTests-dummy.m
+Pods/Target Support Files/Pods-Dummygram-VIPERTests/Pods-Dummygram-VIPERTests-Info.plist
+Pods/Target Support Files/Pods-Dummygram-VIPERTests/Pods-Dummygram-VIPERTests-umbrella.h
+Pods/Target Support Files/Pods-Dummygram-VIPERTests/Pods-Dummygram-VIPERTests.debug.xcconfig
+Pods/Target Support Files/Pods-Dummygram-VIPERTests/Pods-Dummygram-VIPERTests.modulemap
+Pods/Target Support Files/Pods-Dummygram-VIPERTests/Pods-Dummygram-VIPERTests.release.xcconfig
+Pods/Target Support Files/SnapKit/ResourceBundle-SnapKit_Privacy-SnapKit-Info.plist
+Pods/Target Support Files/SnapKit/SnapKit-dummy.m
+Pods/Target Support Files/SnapKit/SnapKit-Info.plist
+Pods/Target Support Files/SnapKit/SnapKit-prefix.pch
+Pods/Target Support Files/SnapKit/SnapKit-umbrella.h
+Pods/Target Support Files/SnapKit/SnapKit.debug.xcconfig
+Pods/Target Support Files/SnapKit/SnapKit.modulemap
+Pods/Target Support Files/SnapKit/SnapKit.release.xcconfig
